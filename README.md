@@ -13,6 +13,8 @@ or
 
 Both approaches converge to similar solutions as seen in the figures below:
 
+![value function](function.png)
+![policy figure](policy.png)
 
 
 
